@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @engrusmanbelloa
 - 👀 I’m full stack web developer interested Dapp and smart contract development 
 - 🌱 Experienced web and smart contract developer with focus in the latest technologies such as HTML5, CSS3, JavaScript, Solidty, Web3JS, React, Mocha, Component CSS, Sass, ExpressJs, MongoDB, Mongoose, NodeJs, etc..
-- 💞️ I’m looking to collaborate on any blockchain project
-- 📫 How to reach me: usmanbelloa@gmail.com
+- 💞️ 'm a very ambitious blockchain developer looking for a role in an established blockchain company with the opportunity to work with the latest technologies on challenging and diverse projects
+- 📫 How to reach me: ctc@bitkova.com
 
 <!---
 engrusmanbelloa/engrusmanbelloa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
