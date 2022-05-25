@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @engrusmanbelloa
 - 👀 I’m full stack web developer interested Dapp and smart contract development 
-- 🌱 I’m currently taking a Dapp and smart contract dev course on udemy and Althash university.
+- 🌱 Experienced web and smart contract developer with focus in the latest technologies such as HTML5, CSS3, JavaScript, Solidty, Web3JS, React, Mocha, Component CSS, Sass, ExpressJs, MongoDB, Mongoose, NodeJs, etc..
 - 💞️ I’m looking to collaborate on any blockchain project
 - 📫 How to reach me: usmanbelloa@gmail.com
 
