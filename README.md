@@ -74,6 +74,6 @@ Alongside engineering, I’m completing **MSc-level research in Telecommunicatio
 ## 📫 Contact
 
 - Email: **usmanbelloa@gmail.com**
-- LinkedIn: *(add link)*
-- Portfolio / Website: *(add link)*
+- LinkedIn: *https://www.linkedin.com/in/engrusmanbelloa*
+- Portfolio / Website: *https://engrusmanbelloa.github.io/portfolio*
 
